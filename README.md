@@ -1,2 +1,5 @@
 # hello-world
-Just for learn
+
+Hi all,
+Manoj here, I like c#.net and c++ oops.
+
